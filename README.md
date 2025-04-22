@@ -1,6 +1,7 @@
-# AI Chat Application
+# Example AI Chat Application
 
 A full-stack chat application built with Vue 3, Vercel AI SDK, LangGraph, LangChain, and NestJS.
+I was facing issues making VueJS + Vercel AI SDK + Langraph with streaming work, so I created this quickstart project for anyone to refer.
 
 ## Features
 
